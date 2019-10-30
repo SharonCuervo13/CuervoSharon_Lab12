@@ -5,5 +5,5 @@ int main(){
     std::cin>>r;
     std::cout <<"diametro:"<<2*r<<std::endl;
     std::cout <<"perimetro:"<<2*3.141592*r<<std::endl;
-
+    std::cout <<"area:"<<3.141592*r*r<<std::endl;
 }
